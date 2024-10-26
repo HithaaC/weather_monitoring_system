@@ -30,7 +30,7 @@ The Real-Time Weather Monitoring System is a Python-based application designed t
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/HithaaC/weather_monitoring_system.git)
    cd weather_monitoring_system
 
 ## Instal required packages
