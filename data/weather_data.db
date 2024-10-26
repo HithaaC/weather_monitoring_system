@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS weather (
+    city TEXT,
+    timestamp INTEGER,
+    temperature REAL,
+    feels_like REAL,
+    main_weather TEXT
+);
